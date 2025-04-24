@@ -1,0 +1,4 @@
+<script>start("d:\\hand detection\\runs\\detect\\train2\\weights\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("best.pt","best.pt",0,6256739,"6.0 MB",1745342368,"4/22/25, 10:49:28 PM");</script>
+<script>addRow("last.pt","last.pt",0,6256739,"6.0 MB",1745342368,"4/22/25, 10:49:28 PM");</script>

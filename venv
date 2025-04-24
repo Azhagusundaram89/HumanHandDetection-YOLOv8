@@ -1,0 +1,6 @@
+<script>start("d:\\hand detection\\.venv\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Include","Include",1,0,"0 B",1744956816,"4/18/25, 11:43:36 AM");</script>
+<script>addRow("Lib","Lib",1,0,"0 B",1744956816,"4/18/25, 11:43:36 AM");</script>
+<script>addRow("Scripts","Scripts",1,0,"0 B",1744956842,"4/18/25, 11:44:02 AM");</script>
+<script>addRow("pyvenv.cfg","pyvenv.cfg",0,105,"105 B",1744956816,"4/18/25, 11:43:36 AM");</script>
